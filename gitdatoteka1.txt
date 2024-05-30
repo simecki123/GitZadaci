@@ -1,1 +1,2 @@
 Nova datoteka za git
+Nova linija u datoteci
