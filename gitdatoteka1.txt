@@ -1,2 +1,4 @@
 Nova datoteka za git
 Konflikt linija
+Nova linija u datoteci1
+
