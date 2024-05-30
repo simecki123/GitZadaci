@@ -1,0 +1,2 @@
+# GitZadaci
+Zadaci za github
